@@ -1,8 +1,8 @@
 .carousel-wrap {
-  margin: 90px auto;
-  padding: 0 5%;
-  width: 80%;
-  position: relative;
+    margin: 30px auto 0;
+    padding: 0;
+    width: 85%;
+    position: relative;
 }
 
 /* fix blank or flashing items on carousel */
