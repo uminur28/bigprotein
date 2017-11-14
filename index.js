@@ -1,4 +1,4 @@
-$('.partner .owl-carousel').owlCarousel({
+$('.partner > .owl-carousel').owlCarousel({
   loop: true,
   margin: 10,
   nav: true,
