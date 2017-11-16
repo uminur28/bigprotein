@@ -1,29 +1,29 @@
-body {
+/* body {
   background: #313131;
   padding: 10px;
-}
+} */
 
-ul {
+ul#light-slider {
   list-style: none;
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-li {
+#light-slider li {
   display: block;
   float: left;
   margin: 0;
   width: 100%;
 }
 
-img {
+#light-slider img {
   display: block;
   width: 100%;
 }
 
-.demo {
+/* .demo {
   margin: 0 auto;
   overflow: hidden;
   max-width: 800px;
-}
+} */
