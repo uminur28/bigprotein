@@ -7,7 +7,7 @@ $("#light-slider").lightSlider({
   responsive: [{
     breakpoint: 600,
     settings: {
-      item: 1
+      item: 2
     }
   }]
 });
